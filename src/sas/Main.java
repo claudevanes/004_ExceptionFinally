@@ -21,6 +21,9 @@ public class Main {
 
 		LOGGER.info("");
         new ExceptionFinally().doTheWork();
+        // Or you can use - ExceptionFinally.dotheWork();
+        // when this class will be static.
+        // There are two ways.
         
 	}
 
