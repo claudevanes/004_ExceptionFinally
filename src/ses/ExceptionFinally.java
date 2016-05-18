@@ -6,7 +6,7 @@ public class ExceptionFinally {
 
 	}
 
-	public static void doTheWork() {
+	public void doTheWork() {
 
 		Object o = null;
 		for (int i = 0; i < 5; i++) {
